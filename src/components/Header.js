@@ -19,7 +19,7 @@ const Header = ({ title, onShow, showForm }) => {
     color: 'blue'
 }
  */
-Header.defaultProps = {
+Header.defaultProps = { 
     title: 'Hello'
 }
 
